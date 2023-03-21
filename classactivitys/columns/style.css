@@ -1,0 +1,11 @@
+.space {
+    gap: 5px
+}
+.red {
+    float: left;
+    grid-column: 50px;
+    
+}
+.blue {
+    float: right;
+}
